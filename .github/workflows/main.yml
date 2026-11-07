@@ -1,0 +1,17 @@
+mono-schwarz-debug-apk/
+│
+├── .github/
+│   └── workflows/
+│       └── android-apk.yml
+│
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── java/
+│           └── res/
+│
+├── build.gradle
+├── settings.gradle
+└── gradle.properties
